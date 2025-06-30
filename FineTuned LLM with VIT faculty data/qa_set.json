@@ -1,0 +1,1082 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Ganesan R"
+            },
+            {
+                "role": "assistant",
+                "content": "ganesan.r@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Ganesan R"
+            },
+            {
+                "role": "assistant",
+                "content": "Books/Book Chapters: \"Integrating Artificial Intelligence and Machine Learning with Blockchain Security\" (2023), \"Towards Improving the Packet Delivery Ratio in Mobile Ad Hoc Networks Using DSDV Protocol and Cuckoo Search Algorithm\" (2023), \"CEPRAN-Cooperative Energy Efficient and Priority Based Reliable Routing Protocol with Network Coding for WBAN\" (2021). Patents: \"ENERGY EFFICIENT BLOCKCHAIN NETWORK USING ADAPTIVE NONCE TARGETING\" (202441044036), \"BLOCKCHAIN-BASED SYSTEM AND METHOD FOR MANAGING TENDERS AND MONITORING OF QUALITY IN PUBLIC WORKS\" (202441069105), \"SYSTEM AND METHOD FACILITATING TO TRACK AUTHENTICITY OF ORGANIC PRODUCE IN SUPPLY CHAIN\" (202441081169), \"MEDRONE- A SMART DRONE TO DISTRIBUTE DRUGS AVOID HUMAN INTERVENTION AND SOCIAL DISTANCING TO DEFEAT COVID-19 PANDEMIC IN HEALTHCARE\" (202141003743)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Ganesan R"
+            },
+            {
+                "role": "assistant",
+                "content": "Information Security, Network Security, Block Chain, Cyber Security"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Ganesan R"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in CSE (Bharathiar University, 2011), MCA in CSE (Manonmaniam Sundaranar University, 1998), B.Sc. in Computer Applications (Manonmaniam Sundaranar University, 1995)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Ganesan R"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely oversees and may occasionally instruct advanced courses in Information Security and Blockchain Technology."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Geetha S"
+            },
+            {
+                "role": "assistant",
+                "content": "geetha.s@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Geetha S"
+            },
+            {
+                "role": "assistant",
+                "content": "Book Chapters: \"International Virtual Conference on Industry 4.0 – Select Proceedings of IVCI4.0 2020\" (2021), \"Applied Soft Computing and Communication Networks\" (2021), \"VANET: Routing Protocols and Applications\" (2020), edited volumes on \"Countering Cyber Attacks and Preserving the Integrity and Availability of Critical Systems\" (2019) and \"Combating Security Breaches and Criminal Activity in the Digital Sphere\" (2016). Co-authored: \"Object Oriented Analysis And Design Using UML\" (2013), \"Network Intrusion Detection System Using Machine Learning Techniques – A Quick Reference\" (2013)."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Geetha S"
+            },
+            {
+                "role": "assistant",
+                "content": "Image Processing, Computer Vision, Information Security, Intrusion Detection System, Malware Detection and Classification, Steganography, Steganalysis, Watermarking, Data Mining, Machine Learning, Feature Selection Algorithms"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Geetha S"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Information and Communication Engineering (Anna University, 2011), M.Tech in Computer Science & Engineering (Karunya Institute of Technology/Anna University, 2004), B.E./B.Tech in Computer Science & Engineering (Sethu Institute of Technology/Madurai Kamaraj University, 2000)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Geetha S"
+            },
+            {
+                "role": "assistant",
+                "content": "Highly probable to teach courses related to image processing, information security, and machine learning at both undergraduate and postgraduate levels."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Parvathi R"
+            },
+            {
+                "role": "assistant",
+                "content": "parvathi.r@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Parvathi R"
+            },
+            {
+                "role": "assistant",
+                "content": "Book Chapters: \"A Review On Spatial Big Data Analytics And Visualization\" (2017), \"Biological Big Data Analysis and Visualization\" (2017), \"Automation of Assets Estimation for Accurate Tax Optimization Through Web Based Spatial Data Mining Techniques\" (2019), \"A Similarity-Based Object Classification Using Deep Neural Networks\" (2019), \"Dimensionality Reduction With Multi-Fold Deep Denoising Autoencoder\" (2019), \"Research Innovations and Trends on Computer Vision and Recognition Systems, Image Synthesis with Generative Adversarial Networks (GAN)\" (2020), \"Advanced Deep Learning Applications in Big Data Analytics, Deep Learning for Social Media Text Analytics\" (2020). Authored: \"Analysis report for statistics in the Twitter network\" (2021)."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Parvathi R"
+            },
+            {
+                "role": "assistant",
+                "content": "Spatial Data Mining, Machine Learning, Data Analytics"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Parvathi R"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Data Mining (Anna University, 2013), M.Tech/MCA in Computer Applications (Bharathidasan University, 1995), B.E./B.Tech/B.Sc in Physics (Bharathidasan University, 1992)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Parvathi R"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely teaches courses in data mining, machine learning, and data analytics, potentially including specialized topics within spatial data mining at both undergraduate and postgraduate levels."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Janaki Meena M"
+            },
+            {
+                "role": "assistant",
+                "content": "janakimeena.m@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Janaki Meena M"
+            },
+            {
+                "role": "assistant",
+                "content": "Patents: \"VIT’s Programming Portal for Enhanced Learning (VPROPEL)\" (201941033802), \"Fine-Grained Fish Classification on Underwater Images using Deep Learning Architectures\" (202141050186). Google Scholar highlights work in text classification, feature selection using ACO algorithms, sentiment analysis, and underwater image processing."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Janaki Meena M"
+            },
+            {
+                "role": "assistant",
+                "content": "Text Mining, Image Processing, BigData Analytics, Algorithms, Data Science (Specialization in Image and Text Analytics)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Janaki Meena M"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Text Analytics (PSG College of Technology, Anna University, Coimbatore, 2011), M.Tech in Computer Science (Mepco Schlenk Engineering College, Sivakasi, Madurai Kamaraj University, 2001), B.E./B.Tech in Electrical and Electronics Engineering (Government College of Engineering, Tirunelveli, Manonmanium Sundarnar University, 1999)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Janaki Meena M"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely teaches courses related to data science, big data analytics, text mining, image processing, and algorithms at both undergraduate and postgraduate levels."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Jeganathan L"
+            },
+            {
+                "role": "assistant",
+                "content": "jeganathan.l@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Jeganathan L"
+            },
+            {
+                "role": "assistant",
+                "content": "I currently have no information about the publications"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Jeganathan L"
+            },
+            {
+                "role": "assistant",
+                "content": "Theoretical (Mathematics of ) Machine learning, Machine learning Models for affordable health-care, Intelligence-based evaluation of descriptive answers in an online examination, Minimum-complexity ML models through Cellular Learning Automata/Stochastic Automata"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Jeganathan L"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD (Indian Institute of Technology Madras, Chennai)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Jeganathan L"
+            },
+            {
+                "role": "assistant",
+                "content": "Highly probable that he teaches advanced courses in machine learning, theoretical computer science, and potentially specialized areas like machine learning for healthcare."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Maheswari N"
+            },
+            {
+                "role": "assistant",
+                "content": "maheswari.n@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Maheswari N"
+            },
+            {
+                "role": "assistant",
+                "content": "Book Chapters: \"Large-Scale Data Analytics Tools: Apache Hive, Pig,and HBase\" (2016), \"Personalize Review\" (2018), \"IoT Cloud Based Waste Management System\" (2020), \"Modified Pre-emptive Priority-Based Round Robin Scheduling Algorithms with Dynamic Time Quantum: MPPBRRACBDQ and MPPBRRALBTDQ\" (2021)."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Maheswari N"
+            },
+            {
+                "role": "assistant",
+                "content": "Machine Learning, Privacy in Social Network Analysis, Behavioural Informatics, Behavioural analysis, Social Network Analysis"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Maheswari N"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Computer Science (Mother Teresa Women’s University, 2009), M.C.A. in Computer Applications (Bharathiar University, 2000), B.Sc. in Maths (Bharathiar University, 1997)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Maheswari N"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely teaches courses in machine learning and social network analysis at both undergraduate and postgraduate levels."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Nayeemulla Khan A"
+            },
+            {
+                "role": "assistant",
+                "content": "nayeemulla.khan@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Nayeemulla Khan A"
+            },
+            {
+                "role": "assistant",
+                "content": "Book/Book Chapter: \"Automated Health Monitoring Through Emotion Identification\" (2015), \"An Efficient Voice Enabled Web Content Retrieval System for Limited Vocabulary\" (2012). Patent: \"Method and system for identification of brain diseases; Schizophrenia, Epilepsy, and Sleep disorder using EEG, Deep Learning and Reconstructed Phase Space\" (202041048787 A)."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Nayeemulla Khan A"
+            },
+            {
+                "role": "assistant",
+                "content": "Speech Recognition, Brain Computer Interface, Application of Deep Learning"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Nayeemulla Khan A"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Computer Science (IIT Madras, 2006), M.Tech in Information Systems (Madurai Kamaraj University, 2002)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Nayeemulla Khan A"
+            },
+            {
+                "role": "assistant",
+                "content": "Reasonable to infer that he teaches courses in speech recognition, brain-computer interface, and deep learning within the Computer Science Engineering program."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Nithyanandam P"
+            },
+            {
+                "role": "assistant",
+                "content": "nithyanandam.p@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Nithyanandam P"
+            },
+            {
+                "role": "assistant",
+                "content": "Patents: \"AN ADVANCED LOGISTIC REGRESSION BASED MULTI-ZONE CLASSIFICATION MECHANISM TO DETECT SLOW HTTP DDoS ATTACKS IN THE CLOUD ENVIRONMENT\" (202041025673 A), \"AN ADVANCED TECHNIQUE TO GENERATE HTTP REQUESTS FROM WEB LOGS\" (202041025667 A), \"AN ADVANCED ZONAL BASED CLASSIFICATION MECHANISM TO DETECT APPLICATION LAYER HTTP DDOS ATTACKS\" (202041040780 A)."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Nithyanandam P"
+            },
+            {
+                "role": "assistant",
+                "content": "Information Security, Biometric Security, Cloud Security"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Nithyanandam P"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Information Security (Anna University, Chennai, 2013), M.Tech in Computer Science and Engineering (BITS-Pilani, Rajasthan, 2003), B.E./B.Tech in Computer Science and Engineering (Madurai Kamaraj University, 2000)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Nithyanandam P"
+            },
+            {
+                "role": "assistant",
+                "content": "Highly likely that he teaches courses related to information security and cloud security within the Computer Science Engineering curriculum."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Pattabiraman V"
+            },
+            {
+                "role": "assistant",
+                "content": "pattabiraman.v@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Pattabiraman V"
+            },
+            {
+                "role": "assistant",
+                "content": "Book Chapters: \"Data Mining Approach for Intelligent Customer Behavior Analysis for a Retail Store\" (2016), \"Self-repairing Functional unit Design in Embedded out-of-order Processor Core\" (2018), \"Social Network Analysis using Graph Theory\" (2018), others on spatial data mining and deep learning. Patents: \"Look Ahead Bus Architecture (LaBarch) for FPGA Embedded System\" (202041025653), \"High Performance Reconfigurable Soft-Core Processor For SIMD Applications\" (202041040730A), \"Multivariate query response method for data aggregation on wireless sensor network (M-QRDAG)\" (202121022884A). Granted Patent: \"Multivariate query response method for data aggregation on wireless sensor network (M-QRDAG)\" (2021105342)."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Pattabiraman V"
+            },
+            {
+                "role": "assistant",
+                "content": "Data Mining, Data Science and Analytics, Machine Learning and Deep Learning"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Pattabiraman V"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Data Mining (Bharathiar University, 2011), M.Tech in Computer Application (Bharathidasan University, 2000), B.E./B.Tech in Computer Science (Madras University, 1997)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Pattabiraman V"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely teaches courses in data mining, data science, and machine learning at both undergraduate and postgraduate levels."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Subbulakshmi T"
+            },
+            {
+                "role": "assistant",
+                "content": "subbulakshmi.t@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Subbulakshmi T"
+            },
+            {
+                "role": "assistant",
+                "content": "Books/Book Chapters: \"Test your Linux Skills\" (2013), \"Hand Book of Cloud Security Parameters: Real-Time Measurements\" (2016), \"Secure Web Application Deployment using OWASP Standards: An expert way of Secure Web Application deployment\" (2017), \"Computer Network Algorithms Implementation Using Scilab\" (2017), \"Cloud DDoS Attack Dataset Creation using Private Cloud Security Testbed: A Security Framework set up for Attack Detection\" (2019)."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Subbulakshmi T"
+            },
+            {
+                "role": "assistant",
+                "content": "Information Security, Machine Learning"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Subbulakshmi T"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in EEE (Raja College of Engineering and Technology / Madurai Kamaraj University, 2011), M.Tech in CSE (Arulmigu Kalasalingam College of Engineering / Madurai Kamaraj University, 2000), B.E./B.Tech in CSE (Thiagarajar College of Engineering / Anna University, 1999)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Subbulakshmi T"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely teaches courses related to information security and machine learning within the Computer Science Engineering program."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Syed Ibrahim S P"
+            },
+            {
+                "role": "assistant",
+                "content": "syedibrahim.sp@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Syed Ibrahim S P"
+            },
+            {
+                "role": "assistant",
+                "content": "Google Scholar profile indicates numerous publications in recommendation systems, collaborative filtering, and data mining, with significant citation counts. Links to ORCID, Scopus, and Google Scholar provided."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Syed Ibrahim S P"
+            },
+            {
+                "role": "assistant",
+                "content": "Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Cyber Security, Recommendation System, Data Science and Analytics"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Syed Ibrahim S P"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Computer Science and Engineering (Anna University, Chennai, 2013), M.E in Computer Science and Engineering (Anna University, 2006), B.E in Computer Science and Engineering (Bharathidasan University, Trichy, 2004)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Syed Ibrahim S P"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely teaches a variety of courses in areas such as data science, artificial intelligence, machine learning, and cybersecurity at both undergraduate and postgraduate levels."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Viswanathan V"
+            },
+            {
+                "role": "assistant",
+                "content": "viswanathan.v@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Viswanathan V"
+            },
+            {
+                "role": "assistant",
+                "content": "Book Chapters: \"Semantic Technologies for Medical Knowledge Representation\" (2019), \"Ontology-driven decision support systems for health care\" (2018), \"Semantic Technologies for IoT\" (2017). Patents: \"Semantic Framework for enhancing the retrieval of lecture videos using machine learning techniques\" (202041040746, 2020), \"SMART RECLINER\" (202141003752, Jan 2021)."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Viswanathan V"
+            },
+            {
+                "role": "assistant",
+                "content": "Semantic Web, Question Answering systems, Machine Learning"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Viswanathan V"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Computer Applications (Anna University, Chennai, 2013), MCA in Computer Applications (Nehru Memorial College, Trichy, 1998), B.Sc in Mathematics (Govt. Arts College, Salem, 1995)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Viswanathan V"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely teaches courses in semantic web, question answering systems, and machine learning, potentially including topics related to knowledge representation and artificial intelligence."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Bharadwaja Kumar G"
+            },
+            {
+                "role": "assistant",
+                "content": "bharadwaja.kumar@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Bharadwaja Kumar G"
+            },
+            {
+                "role": "assistant",
+                "content": "Book Chapter: \"AN ENCYCLOPEDIC OVERVIEW OF ‘BIG DATA’ ANALYTICS\" (2016)."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Bharadwaja Kumar G"
+            },
+            {
+                "role": "assistant",
+                "content": "Natural Language and Speech Processing, Machine and Deep learning applications in Healthcare and disaster management"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Bharadwaja Kumar G"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Natural Language Processing (University of Hyderabad, 2008)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Bharadwaja Kumar G"
+            },
+            {
+                "role": "assistant",
+                "content": "Highly probable that he teaches courses related to natural language processing, speech processing, machine learning, and their applications in healthcare and disaster management."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Jenila Livingston L M"
+            },
+            {
+                "role": "assistant",
+                "content": "jenila.lm@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Jenila Livingston L M"
+            },
+            {
+                "role": "assistant",
+                "content": "Book Chapters: \"Big Data Analytics: Systems, Algorithms, Applications\" (2019), \"OpenCLTM Implementation of Rapid Image Restoration Kernels based on Blind/Non-blind Deconvolution Techniques for Heterogeneous Parallel Systems\" (2021), \"Blockchain Security Using Secure Multi-Party Computation, Opportunities and Challenges for Blockchain Technology in Autonomous Vehicles\" (2020), and others on image processing, web page classification, and social networks."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Jenila Livingston L M"
+            },
+            {
+                "role": "assistant",
+                "content": "eLearning, Artificial Intelligence, Data Analytics"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Jenila Livingston L M"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Computer Science and Engineering with Engineering Education (National Institute of Technical Teachers’ Training and Research, Government of India, Chennai, 2013), M.E./MTech in Computer Science and Engineering (St. Joseph’s Engineering College, Chennai, 2007)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Jenila Livingston L M"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely teaches courses in eLearning, artificial intelligence, and data analytics, potentially including topics related to big data and educational technology."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Malathi G"
+            },
+            {
+                "role": "assistant",
+                "content": "malathi.g@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Malathi G"
+            },
+            {
+                "role": "assistant",
+                "content": "Book Chapters: \"Novel Method to Detect Freshness and Edibility of Betel Leaves Using Convolutional Neural Networks\" (2022), \"Face Recognition with Mask Using MTCNN and FaceNet\" (2021), and \"(https://scholar.google.co.in/scholar?oi=bibs&cluster=8017285264406803307&btnI=1&hl=en)\" (2018). Patents: \"Novel Hand Wrist Biometrics\" (201841038815A), \"AN AXIOMATIC TECHNIQUE FOR DETECTING THE DEGRADATIONS IN SYNTHETIC APERTURE RADAR (SAR) IMAGES\" (202041039635)."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Malathi G"
+            },
+            {
+                "role": "assistant",
+                "content": "Image Processing and Computer Vision, Biometrics, Healthcare and Agriculture Analytics, Image Processing and Analysis, Health care Analytics, Satellite Image Processing"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Malathi G"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Computer Science (Mother Teresa Women’s University, Kodaikanal, 2013), MCA in Computer Applications (University of Madras, 2002), B.Sc in Physics (University of Madras, 1999)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Malathi G"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely teaches courses related to image processing, computer vision, and biometrics, potentially including topics in healthcare and agriculture analytics."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Neela Narayanan V"
+            },
+            {
+                "role": "assistant",
+                "content": "neelanarayanan.v@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Neela Narayanan V"
+            },
+            {
+                "role": "assistant",
+                "content": "Books/Book Chapters: \"Grid and Cloud Computing\" (2017), \"Cloud Computing & Big Data : A Handbook\" (2018), \"Information Technology & Smater System in Information Age A Handbook\" (2018), \"Computing and Emerging Trends: A Handbook\" (2018), \"Cloud Computing\" (2020), \"Cloud Security\" (2022). Patents: Several published patents related to network security, IoT applications, and smart systems."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Neela Narayanan V"
+            },
+            {
+                "role": "assistant",
+                "content": "Network Management and Security, Machine Learning, Fog Computing, Fog Analytics, Context-Aware Computing, Distributed Computing, Cloud Computing, DDoS Attack"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Neela Narayanan V"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Computer Science (IT University of Copenhagen, Denmark, 2013), M.Tech in Computer Science (Madurai Kamaraj University, 1995), B.E./B.Tech in Physics (ANJA College, Sivakasi)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Neela Narayanan V"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely teaches courses in network security, cloud computing, distributed systems, and machine learning at both undergraduate and postgraduate levels."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Pradeep Kumar T S"
+            },
+            {
+                "role": "assistant",
+                "content": "tspradeepkumar@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Pradeep Kumar T S"
+            },
+            {
+                "role": "assistant",
+                "content": "Book Chapters: \"Modelling and Simulation of Fast Moving Ad-Hoc Networks (FANETs and VANETs)\" (2022), \"Network intrusion detection and prevention systems on flooding and worm attacks\" (2016), \"Network Intrusion Detection and Prevention Systems for Attacks in IoT Systems\" (2019), \"A Private Cloud-Based Smart Learning Environment Using Moodle for Universities\" (2018)."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Pradeep Kumar T S"
+            },
+            {
+                "role": "assistant",
+                "content": "Internet of Things and Sensor Networks, Wireless Sensor Networks, Vehicular Adhoc Networks, UAVs, Flying Adhoc Networks, Cyber Physical Systems"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Pradeep Kumar T S"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Wireless Sensor Networks and IoT (Vellore Institute of Technology, Vellore, 2017), M.Tech in Embedded System Technologies (College of Engineering, Guindy, Anna University, 2005), B.E./B.Tech in Electrical and Electronics Engineering (Government College of Engineering, Bargur, Madras University, 1998)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Pradeep Kumar T S"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely teaches courses related to IoT, wireless sensor networks, and cyber-physical systems within the Computer Science Engineering program."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What is the email id of Dr. Priyadarshini J"
+            },
+            {
+                "role": "assistant",
+                "content": "priyadarshini.j@vit.ac.in"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the Publications of Dr. Priyadarshini J"
+            },
+            {
+                "role": "assistant",
+                "content": "Patent: \"FER – 202041039639\"."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the reseach areas of Dr. Priyadarshini J"
+            },
+            {
+                "role": "assistant",
+                "content": "Machine Learning, Image Processing, Deep Learning, Natural Language Processing"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the qualifications of the faculty Dr. Priyadarshini J"
+            },
+            {
+                "role": "assistant",
+                "content": "PhD in Information and Communication (Anna University, Chennai, 2013), M.Tech in M.E. Computer Science (Anna University, 2008), B.E. in B.E. Computer Science (Anna University, Chennai, 2006)"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "What are the courses taught by Dr. Priyadarshini J"
+            },
+            {
+                "role": "assistant",
+                "content": "Likely teaches courses related to machine learning, image processing, deep learning, and natural language processing within the Computer Science Engineering program."
+            }
+        ]
+    }
+]
